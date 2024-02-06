@@ -10,7 +10,7 @@
 Committed to leveraging a strong academic background in Geophysical and Mining Engineering to address real-world challenges through innovative engineering solutions. With a focus on sustainable development and stakeholder relations, I am keen to integrate my technical and leadership skills to create meaningful social impact. Seeking roles that will allow me to contribute to projects requiring multidisciplinary approaches and collaboration.
 
 # Education
-(Pending) B.S. in Geophysics, minor in Mining Eng., Colorado School of Mines, May 2026
+##(Pending) B.S. in Geophysics, minor in Mining Eng., Colorado School of Mines, May 2026
 - Dean’s List, Presidential Merit Scholarship recipient
 
 # Relevant Experience and Organizations
@@ -20,11 +20,11 @@ Engineers Without Borders (EWB): Technical Committee Lead, Sep. 2022 – Present
 
 EWB: School of Mines Chapter Secretary, April 2023 – Present
 -	Communications and scheduling head for EWB chapter.
-  -	Skills used: Communication, organization, Microsoft Office.
+-	Skills used: Communication, organization, Microsoft Office.
     
 Phi Gamma Delta (FIJI) Fraternity, Jan. 2023 – Member
 -	Recruitment Chairman, Sep. 2023 – Present
-  -	Skills used: Marketi¬¬ng, presentation, budgeting.
+-	Skills used: Marketi¬¬ng, presentation, budgeting.
 
 # Projects
 Regenerative Concrete, Jan. 2023
@@ -34,7 +34,7 @@ Regenerative Concrete, Jan. 2023
 
 Gas Detection System, Nov. 2023
 -	Team-oriented coding and testing environment.
-  -	Skills used: Python programming, data analysis, soldering.
+-	Skills used: Python programming, data analysis, soldering.
 -	Programmed and soldered sensors to collect data on flammable gases in the air.
 
 # Certifications
