@@ -10,7 +10,7 @@
 Committed to leveraging a strong academic background in Geophysical and Mining Engineering to address real-world challenges through innovative engineering solutions. With a focus on sustainable development and stakeholder relations, I am keen to integrate my technical and leadership skills to create meaningful social impact. Seeking roles that will allow me to contribute to projects requiring multidisciplinary approaches and collaboration.
 
 # Education
-##(Pending) B.S. in Geophysics, minor in Mining Eng., Colorado School of Mines, May 2026
+## (Pending) B.S. in Geophysics, minor in Mining Eng., Colorado School of Mines, May 2026
 - Dean’s List, Presidential Merit Scholarship recipient
 
 # Relevant Experience and Organizations
