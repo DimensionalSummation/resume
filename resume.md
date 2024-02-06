@@ -14,25 +14,25 @@ Committed to leveraging a strong academic background in Geophysical and Mining E
 - Dean’s List, Presidential Merit Scholarship recipient
 
 # Relevant Experience and Organizations
-Engineers Without Borders (EWB): Technical Committee Lead, Sep. 2022 – Present
+## Engineers Without Borders (EWB): Technical Committee Lead, Sep. 2022 – Present
 -	Team leader in design of water distribution system, implementing in Nicaragua.:
 -	Skills used: Hydraulic Modeling Software, ArcGIS, project management.
 
-EWB: School of Mines Chapter Secretary, April 2023 – Present
+## EWB: School of Mines Chapter Secretary, April 2023 – Present
 -	Communications and scheduling head for EWB chapter.
 -	Skills used: Communication, organization, Microsoft Office.
     
-Phi Gamma Delta (FIJI) Fraternity, Jan. 2023 – Member
+## Phi Gamma Delta (FIJI) Fraternity, Jan. 2023 – Member
 -	Recruitment Chairman, Sep. 2023 – Present
 -	Skills used: Marketi¬¬ng, presentation, budgeting.
 
 # Projects
-Regenerative Concrete, Jan. 2023
+## Regenerative Concrete, Jan. 2023
 -	Team and stakeholder input to determine costs, methods, and proportions.
 -	Skills used: Client relations, team-based engineering, value assessment.
 -	Presented final product with technical paper to panel of engineers.
 
-Gas Detection System, Nov. 2023
+## Gas Detection System, Nov. 2023
 -	Team-oriented coding and testing environment.
 -	Skills used: Python programming, data analysis, soldering.
 -	Programmed and soldered sensors to collect data on flammable gases in the air.
